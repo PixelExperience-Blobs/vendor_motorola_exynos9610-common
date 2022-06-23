@@ -1,0 +1,1 @@
+android_vendor_motorola_exynos9610-common
